@@ -19,4 +19,8 @@ My research has focused primarily on muti-agent reinforcement learning and its a
 News
 ======
 ---
-- [August 2023] One journal paper named “Reputation-based Interaction Promotes Cooperation with Reinforcement Learning” is accepted by IEEE Transactions on Evolutionary Computation.
+- [April 2024] Our conference paper, "Enhancing Cooperation through Selective Interaction and Long-term Experiences in Multi-Agent Reinforcement Learning," where I am the first author, has been accepted by the IJCAI 2024 Main Track.
+  
+- [January 2024] Our under-review paper titled ["Temporal Interaction and its Role in the Evolution of Cooperation"](https://arxiv.org/abs/2401.11782) is now available on arXiv. I contributed as the second and corresponding author.
+  
+- [August 2023] My first-authored journal paper ["Reputation-based Interaction Promotes Cooperation with Reinforcement Learning"](https://ieeexplore.ieee.org/document/10215365) has been accepted for publication in IEEE Transactions on Evolutionary Computation.
