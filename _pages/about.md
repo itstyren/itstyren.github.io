@@ -19,7 +19,9 @@ My research has focused primarily on muti-agent reinforcement learning and its a
 News
 ======
 ---
-- [April 2024] Our conference paper, "Enhancing Cooperation through Selective Interaction and Long-term Experiences in Multi-Agent Reinforcement Learning," where I am the first author, has been accepted by the IJCAI 2024 Main Track.
+- [June 2024]  Our journal paper, "Promoting Cooperation through Dynamic Trustworthiness in Spatial Public Goods Games," has been accepted in the journal Applied Mathematics and Computation, where I contributed as the second and corresponding author.
+
+- [April 2024] Our conference paper, ["Enhancing Cooperation through Selective Interaction and Long-term Experiences in Multi-Agent Reinforcement Learning,"](https://arxiv.org/abs/2405.02654) where I am the first author, has been accepted by the IJCAI 2024 Main Track.
   
 - [January 2024] Our under-review paper titled ["Temporal Interaction and its Role in the Evolution of Cooperation"](https://arxiv.org/abs/2401.11782) is now available on arXiv. I contributed as the second and corresponding author.
   
