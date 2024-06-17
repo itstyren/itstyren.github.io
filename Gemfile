@@ -26,5 +26,3 @@ group :jekyll_plugins do
   gem 'hawkins'
   gem "webrick", "~> 1.8"
 end
-
-gem "webrick", "~> 1.8"
