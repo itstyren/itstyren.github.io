@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-> "Please download my detailed CV [here](https://drive.google.com/file/d/1XrYNug-aCRznSA55DkD_1wYvK8mSvAdl/view?usp=sharing).
+> Please download my detailed CV [here](https://drive.google.com/file/d/1XrYNug-aCRznSA55DkD_1wYvK8mSvAdl/view?usp=sharing).
 
 
 Education
