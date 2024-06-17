@@ -9,12 +9,12 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-> You could download my detailed CV [here](https://github.com/itstyren/itstyren.github.io/blob/master/files/tyren_CV.pdf).
+> You could download my detailed CV [here](https://drive.google.com/file/d/1XrYNug-aCRznSA55DkD_1wYvK8mSvAdl/view?usp=sharing).
 
 
 Education
 ======
-* PhD student in Computer Science, University of Manchester, Sep 2022 – presen
+* PhD student in Computer Science, University of Manchester, Sep 2022 – present
 * M.Sc. in Management Science and Engineering, Wuhan University, Sep 2019 – Jun 2022
 * B.Sc. in Management Information Systems, Wuhan University of Technology, Sep 2015 – Jun 2019
 
