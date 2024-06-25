@@ -19,7 +19,7 @@ My research has focused primarily on muti-agent reinforcement learning and its a
 News
 ======
 ---
-- [June 2024]  Our journal paper, "Promoting Cooperation through Dynamic Trustworthiness in Spatial Public Goods Games," has been accepted in the journal Applied Mathematics and Computation, where I contributed as the second and corresponding author.
+- [June 2024]  Our journal paper, ["Promoting Cooperation through Dynamic Trustworthiness in Spatial Public Goods Games,"](https://www.sciencedirect.com/science/article/pii/S0096300324003643) has been accepted in the journal Applied Mathematics and Computation, where I contributed as the second and corresponding author.
 
 - [April 2024] Our conference paper, ["Enhancing Cooperation through Selective Interaction and Long-term Experiences in Multi-Agent Reinforcement Learning,"](https://arxiv.org/abs/2405.02654) where I am the first author, has been accepted by the IJCAI 2024 Main Track.
   
