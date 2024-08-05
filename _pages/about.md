@@ -19,10 +19,12 @@ My research has focused primarily on muti-agent reinforcement learning and its a
 News
 ======
 ---
-- [June 2024]  Our journal paper, ["Promoting Cooperation through Dynamic Trustworthiness in Spatial Public Goods Games,"](https://www.sciencedirect.com/science/article/pii/S0096300324003643) has been accepted in the journal Applied Mathematics and Computation, where I contributed as the second and corresponding author.
+- [July 2024] Our journal paper, ["Temporal Interaction and its Role in the Evolution of Cooperation"](https://journals.aps.org/pre/accepted/67076Rd3Df614f2b45453702d140f8d4b93fa0d86) has been accepted in the journal Physical Review E, where I am sereved as the second autor and corresponding author.
+
+- [June 2024] Our journal paper, ["Promoting Cooperation through Dynamic Trustworthiness in Spatial Public Goods Games,"](https://www.sciencedirect.com/science/article/pii/S0096300324003643) has been accepted in the journal Applied Mathematics and Computation, where I contributed as the second and corresponding author.
 
 - [April 2024] Our conference paper, ["Enhancing Cooperation through Selective Interaction and Long-term Experiences in Multi-Agent Reinforcement Learning,"](https://arxiv.org/abs/2405.02654) where I am the first author, has been accepted by the IJCAI 2024 Main Track.
   
-- [January 2024] Our under-review paper titled ["Temporal Interaction and its Role in the Evolution of Cooperation"](https://arxiv.org/abs/2401.11782) is now available on arXiv. I contributed as the second and corresponding author.
+<!-- - [January 2024] Our under-review paper titled ["Temporal Interaction and its Role in the Evolution of Cooperation"](https://arxiv.org/abs/2401.11782) is now available on arXiv. I contributed as the second and corresponding author. -->
   
-- [August 2023] My first-authored journal paper ["Reputation-based Interaction Promotes Cooperation with Reinforcement Learning"](https://ieeexplore.ieee.org/document/10215365) has been accepted for publication in IEEE Transactions on Evolutionary Computation.
+<!-- - [August 2023] My first-authored journal paper ["Reputation-based Interaction Promotes Cooperation with Reinforcement Learning"](https://ieeexplore.ieee.org/document/10215365) has been accepted for publication in IEEE Transactions on Evolutionary Computation. -->
