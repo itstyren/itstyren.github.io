@@ -19,7 +19,7 @@ My research has focused primarily on muti-agent reinforcement learning and its a
 News
 ======
 ---
-- [July 2024] Our journal paper, ["Temporal Interaction and its Role in the Evolution of Cooperation"](https://journals.aps.org/pre/accepted/67076Rd3Df614f2b45453702d140f8d4b93fa0d86) has been accepted in the journal Physical Review E, where I am sereved as the second autor and corresponding author.
+- [July 2024] Our journal paper, ["Temporal Interaction and its Role in the Evolution of Cooperation"](https://journals.aps.org/pre/accepted/67076Rd3Df614f2b45453702d140f8d4b93fa0d86) has been accepted in the journal Physical Review E, where I am sereved as the second author and corresponding author.
 
 - [June 2024] Our journal paper, ["Promoting Cooperation through Dynamic Trustworthiness in Spatial Public Goods Games,"](https://www.sciencedirect.com/science/article/pii/S0096300324003643) has been accepted in the journal Applied Mathematics and Computation, where I contributed as the second and corresponding author.
 
