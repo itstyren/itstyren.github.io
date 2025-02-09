@@ -20,9 +20,11 @@ Education
 
 Service to profession
 ======
-* IEEE Transactions on Evolutionary Computation (2023), Reviewer
+* IEEE Transactions on Evolutionary Computation (2023&2024), Reviewer
+* IEEE Transactions on Systems, Man, and Cybernetics: Systems (2024), Reviewer
+* Environmental Impact Assessment Review (2024), Reviewer
 * Journal of Intelligent & Fuzzy Systems (2023), Reviewer
-* PLOS One (2022, 2023), Guest Editor, Reviewer
+* PLOS One (2022-2024), Guest Editor, Reviewer
 
 
 <!-- Work experience
