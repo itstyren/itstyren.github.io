@@ -19,11 +19,13 @@ My research has focused primarily on muti-agent reinforcement learning and its a
 News
 ======
 ---
+- [March 2025] Our journal paper, [“Feature-driven Hybrid Attention Learning for Accurate Water Quality Prediction”,](https://www.sciencedirect.com/science/article/pii/S0957417425007821) has been accepted in Expert Systems with Applications, where I contributed as the third author.
+
 - [Dec 2024] Our conference paper, ["Bottom-Up Reputation Promotes Cooperation with Multi-Agent Reinforcement Learning,"](https://arxiv.org/abs/2502.01971) where I am the first author, as been accepted as a full paper at AMMAS 2025.
 
 - [July 2024] Our journal paper, ["Temporal Interaction and its Role in the Evolution of Cooperation"](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.024210) has been accepted in the journal Physical Review E, where I am served as the second author and corresponding author.
 
-- [June 2024] Our journal paper, ["Promoting Cooperation through Dynamic Trustworthiness in Spatial Public Goods Games,"](https://www.sciencedirect.com/science/article/pii/S0096300324003643) has been accepted in the journal Applied Mathematics and Computation, where I contributed as the second and corresponding author.
+<!-- - [June 2024] Our journal paper, ["Promoting Cooperation through Dynamic Trustworthiness in Spatial Public Goods Games,"](https://www.sciencedirect.com/science/article/pii/S0096300324003643) has been accepted in the journal Applied Mathematics and Computation, where I contributed as the second and corresponding author. -->
 
 <!-- - [April 2024] Our conference paper, ["Enhancing Cooperation through Selective Interaction and Long-term Experiences in Multi-Agent Reinforcement Learning,"](https://www.ijcai.org/proceedings/2024/22) where I am the first author, has been accepted by the IJCAI 2024 Main Track. -->
   
