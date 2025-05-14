@@ -9,6 +9,10 @@ redirect_from:
 ---
 ---
 
+>**Seeking Opportunities** \
+>I am currently open to and actively seeking visiting research opportunities at any time, and postdoctoral positions starting around December to advance my research and foster new collaborations.
+
+
 I am currently doing a PhD  in Computer Science at the University of Manchester, supervised by [Prof. Xiao-Jun Zeng](https://scholar.google.co.uk/citations?user=jb-bYtIAAAAJ&hl=en) and co-supervised by [Dr. Ke Chen](https://scholar.google.co.uk/citations?user=-pGdSi4AAAAJ&hl=en). I graduated from Wuhan University with an MSc in Management Science and Engineering in 2022 and from Wuhan University of Technology with a BSc in Management Information Systems in 2019.
 
 
