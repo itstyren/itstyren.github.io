@@ -20,11 +20,18 @@ Education
 
 Service to profession
 ======
+* IJCAI (2026), Program Committee member
+* Expert Systems with Applications (2026,2025), Reviewer
+* IEEE Transactions on Cybernetics (2026,2025), Reviewer
+* Journal of The Royal Society Interface (2026,2025), Reviewer
+* IEEE Transactions on Systems, Man, and Cybernetics: Systems (2024-2026), Reviewer
+* IEEE Transactions on Neural Networks and Learning Systems (2026,2025), Reviewer
+* IEEE Transactions on Computational Social Systems (2025), Reviewer
 * PLOS Computational Biology (2025), Reviewer
+* The Journal of Supercomputing (2025), Reviewer
 * Scientific Reports (2025), Reviewer
 * The Journal of Supercomputing (2025), Reviewer
 * IEEE Transactions on Evolutionary Computation (2023&2024), Reviewer
-* IEEE Transactions on Systems, Man, and Cybernetics: Systems (2024), Reviewer
 * Environmental Impact Assessment Review (2024), Reviewer
 * Journal of Intelligent & Fuzzy Systems (2023), Reviewer
 * PLOS One (2022-2024), Guest Editor, Reviewer

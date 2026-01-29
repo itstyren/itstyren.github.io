@@ -10,14 +10,15 @@ redirect_from:
 ---
 
 >**Seeking Opportunities** \
->I am currently open to and actively seeking visiting research opportunities at any time, and postdoctoral positions starting around December to advance my research and foster new collaborations.
+>I am actively seeking postdoctoral positions and am available to start at any time.
 
 
 I am currently doing a PhD  in Computer Science at the University of Manchester, supervised by [Prof. Xiao-Jun Zeng](https://scholar.google.co.uk/citations?user=jb-bYtIAAAAJ&hl=en) and co-supervised by [Dr. Ke Chen](https://scholar.google.co.uk/citations?user=-pGdSi4AAAAJ&hl=en). I graduated from Wuhan University with an MSc in Management Science and Engineering in 2022 and from Wuhan University of Technology with a BSc in Management Information Systems in 2019.
 
 
-My research has focused primarily on muti-agent reinforcement learning and its applications to the evolution of cooperation. During my master's program, I investigated the role of social exclusion and expulsion mechanisms in driving the emergence and evolution of cooperation. Presently, I am conducting an analysis to compare the performance of cooperative facilitation mechanisms when applied within the contexts of social learning and reinforcement learning.
+My research focuses on multi-agent reinforcement learning as a computational framework for understanding how cooperation, reputation, and normative behaviour emerge and stabilise in decentralised multi-agent systems. During my master’s studies, I investigated how social exclusion and expulsion mechanisms shape cooperative dynamics in social dilemmas, grounding my work in evolutionary game theory and networked interactions. 
 
+Building on this foundation, my doctoral research examines how cooperative facilitation mechanisms, such as selective interaction and emergent reputation, operate under different learning paradigms, with a particular emphasis on comparing social learning and reinforcement learning frameworks. Through this work, I aim to develop learning-based, bottom-up models in which cooperative and normative behaviours arise from agent interaction rather than being imposed externally, thereby promoting robust cooperative collective intelligence.
 
 
 News
